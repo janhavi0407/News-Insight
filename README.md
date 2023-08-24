@@ -55,6 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-By [Your Name]
 
-For questions or inquiries, please contact [your.email@example.com].
