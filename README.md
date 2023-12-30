@@ -3,6 +3,9 @@ A news summarizer
 
 # News Summarizer
 
+![Screenshot (297)](https://github.com/janhavi0407/News-Insight/assets/100830653/b28c244e-c042-4d09-85ee-5abc40924a1a)
+
+
 ## Overview
 
 The News Summarizer is a Python application designed to simplify the process of fetching, summarizing, and analyzing news articles from URLs. Built using the Tkinter graphical user interface framework, the application provides users with a user-friendly interface to interact with.
