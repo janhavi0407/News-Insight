@@ -3,7 +3,6 @@ A news summarizer
 
 # News Summarizer
 
-![Screenshot (297)](https://github.com/janhavi0407/News-Insight/assets/100830653/b28c244e-c042-4d09-85ee-5abc40924a1a)
 
 
 ## Overview
